@@ -64,8 +64,6 @@ Optional: Gmail App Password and Twilio credentials for notifications.
 
 Clone the Repository:
 
-git clone https://github.com/Dakshified/nifty-ai-stock-pro.git
-cd nifty-ai-stock-pro
 
 Set Up a Virtual Environment:
 
