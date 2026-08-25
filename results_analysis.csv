@@ -1,0 +1,4 @@
+Stock,Trend,Volatility,VaR_95,Beta,Portfolio_Weight,Sentiment
+RELIANCE.NS,N/A,16.72%,-1.41%,1.17,0.00%,Positive
+TCS.NS,N/A,14.82%,-1.55%,0.95,0.00%,Positive
+HDFCBANK.NS,N/A,12.92%,-1.26%,1.10,100.00%,Positive
